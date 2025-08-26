@@ -1,6 +1,6 @@
 # Predicting-concrete-compressive-strength
 
-This project applies machine learning to predict concrete compressive strength (MPa) based on mix components and curing age.
+This project applies machine learning to predict concrete compressive strength (MPa) based on different components.
 
 ## 📊 Dataset
 - **Source:** UCI Concrete Compressive Strength dataset  
